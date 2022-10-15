@@ -1,10 +1,13 @@
-# Music-Player with JavaScript
+# Music-Player 
 
-Function
-1) Random Song
+Functions:
+1) Play/Pause Song
 2) Previous Song
 3) Next Song
 4) Repeat Song
+5) Shuffle Song
+
+Compatible with Windows, Mac OS, Linux, Android, IOS, and Google OS.
 
 ![311877208_788030472487465_5724608825965151549_n](https://user-images.githubusercontent.com/108941456/196001252-cf31b8af-13d6-4dd8-a0b8-3c44e60b9a4b.png)
 
