@@ -18,3 +18,4 @@ Compatible with Windows, Mac OS, Linux, Android, IOS, and Google OS.
 
 ![308508221_3164573257125666_5621066693433458283_n](https://user-images.githubusercontent.com/108941456/196001256-1ddd6882-45a2-4144-be55-5b6e2ef66ce5.png)
 
+                                                                  ©️2022 Erik Shrestha
