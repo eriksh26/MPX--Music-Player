@@ -1,2 +1,7 @@
-# MPX--Music-Player
-An instant mood refresher. Listen to some of your favorite artists and enjoy the songs. ;)
+# Music-Player with JavaScript
+
+Function
+1) Random Song
+2) Previous Song
+3) Next Song
+4) Repeat Song
